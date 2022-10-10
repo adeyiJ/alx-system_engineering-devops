@@ -1,2 +1,2 @@
-#!/babin/bash
+#!/bin/bash
 ls -amp | sort -d
