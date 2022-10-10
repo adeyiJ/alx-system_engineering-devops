@@ -1,0 +1,2 @@
+#!/babin/bash
+ls -amp | sort -d
