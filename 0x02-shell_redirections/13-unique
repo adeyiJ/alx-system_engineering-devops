@@ -1,2 +1,2 @@
 #!/bin/bash
-sort < file | sort -u | lpr
+sort < list | sort -u | lpr
