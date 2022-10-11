@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -u < list | lpr
+cat list | sort -U |ls -la | lpr
